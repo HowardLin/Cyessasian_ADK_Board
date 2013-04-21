@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cyessasian Pico KEY Demo</string>
+    <string name="menu_settings">Settings</string>
+     <string name="Model">Model:</string>
+    <string name="Version">Version:</string>
+    <string name="DesignedBy">Designed By:</string>
+    <string name="Serial">Serial:</string>
+    <string name="Description">Description:</string>
+	<string name="FirmwareVersion">Firmware Version:</string>
+	<string name="FirmwareSzie">Firmware Szie:</string>
+	<string name="UpdateStatus">Update Status:</string>
+	<string name="Button_1">Button1 Status:</string>
+	<string name="Button_2">Button2 Status:</string>
+	<string name="Button_3">Button3 Status:</string>
+	<string name="Button_4">Button4 Status: </string>
+	<string name="Pressed">Pressed</string>
+	<string name="NotPressed">Not pressed</string>
+</resources>
